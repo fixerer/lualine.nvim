@@ -17,6 +17,6 @@ M.sections = {
   },
 }
 
-M.filetypes = { 'Trouble' }
+M.filetypes = { 'Trouble', 'trouble' }
 
 return M
